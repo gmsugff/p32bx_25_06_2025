@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\bin\Debug\net8.0-windows\25_06_2025_p32_bx.exe
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\bin\Debug\net8.0-windows\25_06_2025_p32_bx.deps.json
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\bin\Debug\net8.0-windows\25_06_2025_p32_bx.runtimeconfig.json
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\bin\Debug\net8.0-windows\25_06_2025_p32_bx.dll
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\bin\Debug\net8.0-windows\25_06_2025_p32_bx.pdb
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\obj\Debug\net8.0-windows\_25_06_2025_p32_bx.Form1.resources
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\obj\Debug\net8.0-windows\25_06_2025_p32_bx.csproj.GenerateResource.cache
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\obj\Debug\net8.0-windows\25_06_2025_p32_bx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\obj\Debug\net8.0-windows\25_06_2025_p32_bx.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\obj\Debug\net8.0-windows\25_06_2025_p32_bx.AssemblyInfo.cs
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\obj\Debug\net8.0-windows\25_06_2025_p32_bx.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\obj\Debug\net8.0-windows\25_06_2025_p32_bx.dll
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\obj\Debug\net8.0-windows\refint\25_06_2025_p32_bx.dll
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\obj\Debug\net8.0-windows\25_06_2025_p32_bx.pdb
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\obj\Debug\net8.0-windows\25_06_2025_p32_bx.genruntimeconfig.cache
+C:\Users\User\source\repos\25_06_2025_p32_bx\25_06_2025_p32_bx\obj\Debug\net8.0-windows\ref\25_06_2025_p32_bx.dll
